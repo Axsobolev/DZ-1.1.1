@@ -3,9 +3,11 @@
 
 # Локация дефекта
 
+https://github.com/Axsobolev/DZ-1.1.1/blob/main/src/Main.java#L14
+
 # Шаги воспроизведения
 
-1. Скопировать [код программы](https://github.com/netology-code/javaqa-homeworks-video/blob/javaqa-55/HW_INTRO.md) в IDEA
+1. Открыть [код программы](https://github.com/Axsobolev/DZ-1.1.1/blob/main/src/Main.java) в IDEA
 2. Запустить программу
 3. Посмотреть на вывод консоли
 
