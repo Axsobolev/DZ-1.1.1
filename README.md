@@ -3,7 +3,7 @@
 
 # Локация дефекта
 
-https://github.com/Axsobolev/DZ-1.1.1/blob/main/src/Main.java#L14
+https://github.com/Axsobolev/DZ-1.1.1/blob/12547823b2baafcc71104bfd008ee307ca427e1b/src/Main.java#L14
 
 # Шаги воспроизведения
 

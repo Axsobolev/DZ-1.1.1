@@ -29,7 +29,6 @@ bin/
 .DS_Store
 
 
-.gitignore
-.idea
-out
-.iml
+*.gitignore
+*.idea
+*.iml
